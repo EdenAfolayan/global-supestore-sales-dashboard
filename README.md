@@ -72,7 +72,7 @@ The dashboard includes slicers that allow users to dynamically filter results by
 
 Add screenshots of the dashboard here.
 
-![Dashboard](screenshots\dashboard-overview.png)
+![Dashboard](excel-superstore-dashboard/screenshots/dashboard-overview.png)
 
 
 ## Skills Demonstrated
